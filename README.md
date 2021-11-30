@@ -1,0 +1,3 @@
+👋 Hi, I’m @Boomerang L.
+👀 I’m interested in domotocs, robotics, automation and algo trading
+🌱 I’m currently learning python ...
